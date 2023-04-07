@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Navbar></Navbar>
 
-      <h1 className="text-7xl text-purple-700">Hello from tailwind</h1>
+      <h1 className="text-7xl text-white bg-purple-500 my-5 font-extrabold p-5 text-center ">Hello! From Tailwind</h1>
 
       <PriceList></PriceList>
     </div>
